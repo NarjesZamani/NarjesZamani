@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Narjes</h1>
-<h3 align="center">A frontend developer from Iran</h3>
+<h4 align="center">👋 Hello! I'm Narjes, a front-end developer with a tremendous passion for web interface design and development.
+
+💻 My expertise lies in HTML, CSS, and JavaScript, and I am currently learning frameworks like React. I constantly strive to create exceptional user experiences and I'm interested in projects that enhance the user experience.
+
+🌟 I am currently active in the web development field and I am seeking new opportunities to collaborate on exciting and innovative projects.
+
+📚 Additionally, I am always learning and staying updated with new technologies and improved programming methodologies. My goal in sharing my projects on GitHub is to enhance my knowledge and also share resources and ideas with the programming community.
+
+📫 If you are interested in collaboration, contribution, or discussing any projects, feel free to reach out to me. I'm always looking to collaborate with motivated and creative individuals.
+
+🌻 Thank you for taking the time to read my biography. I hope we can collaborate together in the future!</h4>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narjeszamani&label=Profile%20views&color=0e75b6&style=flat" alt="narjeszamani" /> </p>
