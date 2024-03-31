@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narjes</h1>
-<h4 align="center">👋 Hello! I'm Narjes, a front-end developer with a tremendous passion for web interface design and development.
+<h4 align="left">👋 Hello! I'm Narjes, a front-end developer with a tremendous passion for web interface design and development.
 
 💻 My expertise lies in HTML, CSS, and JavaScript, and I am currently learning frameworks like React. I constantly strive to create exceptional user experiences and I'm interested in projects that enhance the user experience.
 
